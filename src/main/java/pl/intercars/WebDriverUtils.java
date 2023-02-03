@@ -28,7 +28,6 @@ public class WebDriverUtils {
                 break;
         }
     }
-//    git remote set-url origin https://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@github.com/nesseb/
     public static void openPage(String url) {
         webDriver.get(url);
     }
